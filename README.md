@@ -15,7 +15,7 @@ MacMasteryReactJS/
 │ └── (Your slick React project)
 │
 ├── ProjectTwo/
-│ └── (Another React masterpiece)
+│ └── (Coming soon)
 │
 └── ProjectThree/
-└── (More React magic)
+└── (Coming soon)
